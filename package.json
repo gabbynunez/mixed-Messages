@@ -1,0 +1,21 @@
+{
+  "name": "mixed-messages",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "mixed-message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabbynunez/mixed-Messages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabbynunez/mixed-Messages/issues"
+  },
+  "homepage": "https://github.com/gabbynunez/mixed-Messages#readme"
+}
