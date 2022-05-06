@@ -1,0 +1,43 @@
+.text-container{
+    margin: auto;
+    margin-top: 100px;
+    background-color: #ADEFD1FF;
+    width: 70%;
+    height: 500px;
+    border-radius: 15px;
+    padding: 50px;
+    color: #00203FFF;
+    font-family: 'Dancing Script';
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons-container{
+    margin: auto;
+    margin-top: 20px;
+    height: 50px;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+button {
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+    width: 30%;
+    background-color: #00203FFF;
+    font-size: 20px;
+    color: white;
+    transition: 0.5s;
+}
+
+button:hover{
+    border: 1px solid #00203FFF ;
+    background-color: white;
+    color: #00203FFF;
+
+}
